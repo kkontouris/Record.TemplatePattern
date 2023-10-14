@@ -1,0 +1,15 @@
+D:\προγραμματισμός\c#\TemplatePattern.Record\bin\Debug\net7.0\TemplatePattern.Record.exe
+D:\προγραμματισμός\c#\TemplatePattern.Record\bin\Debug\net7.0\TemplatePattern.Record.deps.json
+D:\προγραμματισμός\c#\TemplatePattern.Record\bin\Debug\net7.0\TemplatePattern.Record.runtimeconfig.json
+D:\προγραμματισμός\c#\TemplatePattern.Record\bin\Debug\net7.0\TemplatePattern.Record.dll
+D:\προγραμματισμός\c#\TemplatePattern.Record\bin\Debug\net7.0\TemplatePattern.Record.pdb
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.csproj.AssemblyReference.cache
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.AssemblyInfoInputs.cache
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.AssemblyInfo.cs
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.csproj.CoreCompileInputs.cache
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.dll
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\refint\TemplatePattern.Record.dll
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.pdb
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\TemplatePattern.Record.genruntimeconfig.cache
+D:\προγραμματισμός\c#\TemplatePattern.Record\obj\Debug\net7.0\ref\TemplatePattern.Record.dll
